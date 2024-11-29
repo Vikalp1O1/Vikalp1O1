@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vikalp Tomar</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikalp1o1" alt="vikalp1o1" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot and React**
+- 🌱 I’m currently learning **Springboot and Node js**
 
-- 💬 Ask me about **Java, Javascript, React**
+- 💬 Ask me about **Java, Javascript, Node js**
 
 - 📫 How to reach me **vikalptomar100@gmail.com**
 
