@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vikalp Tomar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Spring boot and Nodejs**
+- 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **Java, Javascript, Nodejs**
+- 💬 Ask me about **Javascript, Nodejs, Reactjs, Next js, MongoDB**
 
 - 📫 How to reach me **vikalptomar100@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/105Au4LEJAUc2LUgnM8mP49ufUGI6atWD/view?usp=drive_link](https://drive.google.com/file/d/105Au4LEJAUc2LUgnM8mP49ufUGI6atWD/view?usp=drive_link)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
